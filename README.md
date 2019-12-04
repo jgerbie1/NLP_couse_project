@@ -1,5 +1,6 @@
 # NLP_couse_project
 For this assignment, I tried to create an auto response email message for the user. However, I was unsuccessful with this project. 
+Overall, I imported comments and emails, preprosseced them and tried making seq2seq as my model1 and then for model2 I use cos sim to find the most sim comment to the prediction.
 
 
 
